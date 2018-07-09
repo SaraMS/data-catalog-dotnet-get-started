@@ -7,7 +7,7 @@ author: dvana
 
 This sample shows you how to use the Azure Data Catalog REST API to Register, Search, and Delete data assets.
 
-To get started using this sample, you first need to build the executable, following the steps below:
+To get started using this sample you first need to build the executable following the steps below: 
 
 1. Download the sample project
 2. Open the sample project in Visual Studio and install the latest version of the dependent NuGet packages (e.g Microsoft.IdentityModel.Clients.ActiveDirectory) 
